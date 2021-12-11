@@ -8,7 +8,7 @@ version: 0.2
   build:
     commands:
       - mvn test
-artifacts:
-  files:
-    - '**/*'
+  artifacts:
+    files:
+      - '**/*'
   
