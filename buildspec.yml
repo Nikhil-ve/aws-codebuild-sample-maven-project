@@ -14,9 +14,9 @@ phases:
     commands:
     - echo Build completed on `date`
    # - echo Hello
- artifacts:
-   files:
+ # artifacts:
+ #  files:
   #  - '**/*'
-   - target/bike-service-0.0.1-SNAPSHOT.war
-   - scripts/*
+ #  - target/bike-service-0.0.1-SNAPSHOT.war
+  # - scripts/*
   
